@@ -1,0 +1,2 @@
+module Beta::PostsHelper
+end
